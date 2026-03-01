@@ -4,7 +4,7 @@
 
 ### 使用方法：
 
-1. 登录信息门户网站，进入【在线教育与教学】(https://jyjx.hzau.edu.cn/personal-center)
+1. 登录信息门户网站，进入[教育与教学在线](https://jyjx.hzau.edu.cn/personal-center)
 
 2. 向下滚动，将显示的周课表切换为学期课表
 
